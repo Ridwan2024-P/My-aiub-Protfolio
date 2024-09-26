@@ -1,0 +1,94 @@
+*{
+box-sizing: border-box;
+
+}
+body {
+   width: 50%
+    margin: 0px;
+    font-family: Arial, sans-serif;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(banner-3.jpg);
+}
+.img img{
+   width: 92px;
+    height: 92px;
+    margin-bottom: 20px;
+    padding: 5px;
+    position: center;
+   margin-left: 140px;
+}
+.form-container {
+   background-color: transparent; 
+   width: 370px;
+   height: 480px;
+    background-image: url(banner-3.jpg);
+  
+   
+  
+}
+.src{
+   width: 320px;
+   height: 33px;
+   padding: 15px;
+   margin: 5px;
+   margin-left: 20px;
+   border-width: 2px;
+   color: black;
+   font-size: 15px;
+   border-color: black;
+
+
+}
+.b{
+   width: 320px;
+   height: 43px;
+   margin: 5px;
+   margin-left: 20px;
+
+   font-size: 18px;
+   font-family: Arial;
+   color: white;
+   background-color: #428bca;
+   cursor: pointer;
+
+}
+.can h5{
+   color: lightblue;
+   margin-top: 20px;
+   text-align: center;
+   cursor: pointer;
+}
+.hh h4{
+   text-align: center;
+   
+   font-family: Arial;
+   font-size: 15px;
+   color:black;
+   margin: 20px;
+   margin-top: -20px;
+
+  
+   
+}
+.hh h5{
+   margin-left: 40Px;
+}
+.hh h6{
+   margin-left: 100px;
+   background-color: lightblack;
+}
+.bbb{
+   
+   
+   margin-left: 150px;
+   font-size: 18px;
+   font-family: Arial;
+    color: blue;
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+}
